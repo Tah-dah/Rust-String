@@ -7,4 +7,3 @@ edition = "2021"
 
 [dependencies]
 substring = "1.4.5"
-push = "0.0.0"
